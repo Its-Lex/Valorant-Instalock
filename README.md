@@ -1,4 +1,4 @@
-# Valorant Instalock Tool
+# Valorant Instalock
 
 ## Overview
 
